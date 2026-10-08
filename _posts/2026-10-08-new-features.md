@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "new features"
+title:  "Labtrac new features"
 date:   2026-10-08 12:16:35 +0100
 categories: jekyll update
 ---
